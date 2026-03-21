@@ -328,6 +328,7 @@ git push origin feature/42-amazing-feature
 | **AI Engineer** | 김경서 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) | LLM, FinNLP, FDS, RAG |
 | **Data Engineer** | 홍지영 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) | LLM, Data Engineering |
 | **Data Operator** | 이화림 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) | LLM, Data Engineering |
+| **Data Scientist** | 심세원 | ![Python](https://img.shields.io/badge/Python-Intermediate-FF6C37) | LLM, RAG |
 
 ## 🚀 배포 및 릴리스
 
